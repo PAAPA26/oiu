@@ -1,73 +1,154 @@
-[19:02:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:02:13] [main/INFO]: Found new data pack file/bukkit, loading it automatically
-[19:02:13] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:02:13] [Worker-Main-2/INFO]: Loaded 7 recipes
-[19:02:15] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[19:02:15] [Server thread/INFO]: Loading properties
-[19:02:15] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[19:02:15] [Server thread/INFO]: Debug logging is disabled
-[19:02:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:02:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:02:15] [Server thread/INFO]: Default game type: SURVIVAL
-[19:02:15] [Server thread/INFO]: Generating keypair
-[19:02:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:02:15] [Server thread/INFO]: Using epoll channel type
-[19:02:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.5+57d5ac9
-[19:02:16] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@194cfba5]
-[19:02:16] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.2
-[19:02:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:02:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.5+57d5ac9
-[19:02:16] [Server thread/INFO]: WEPIF: Updated config file
-[19:02:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[19:02:16] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
-[19:02:16] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
-[19:02:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:02:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:02:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:02:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:02:17] [Server thread/INFO]: Preparing level "world"
-[19:02:17] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[19:02:20] [Server thread/WARN]: Unable to find spawn biome
-[19:02:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:02:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:02:21] [Server thread/INFO]: Time elapsed: 466 ms
-[19:02:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:02:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:02:22] [Server thread/INFO]: Time elapsed: 514 ms
-[19:02:22] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.2
-[19:02:22] [Server thread/INFO]: Starting GS4 status listener
-[19:02:22] [Server thread/INFO]: Thread Query Listener started
-[19:02:22] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[19:02:22] [Server thread/INFO]: Running delayed init tasks
-[19:02:22] [Server thread/INFO]: Done (7.346s)! For help, type "help"
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[19:02:22] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[19:02:22] [Server thread/INFO]: Timings Reset
-[19:03:31] [User Authenticator #1/INFO]: UUID of player RompOrTos is c5551972-6eb1-3fa6-b9af-c905864589e9
-[19:03:31] [Server thread/INFO]: RompOrTos joined the game
-[19:03:32] [Server thread/INFO]: RompOrTos[/127.49.104.71:50529] logged in with entity id 462 at ([world]234.5, 78.0, -211.5)
-[19:03:57] [Server thread/INFO]: Made RompOrTos a server operator
-[19:04:03] [Server thread/INFO]: RompOrTos issued server command: /gamemode creative
-[19:04:03] [Server thread/INFO]: [RompOrTos: Set own game mode to Creative Mode]
-[19:04:25] [Server thread/INFO]: RompOrTos issued server command: /give RompOrTos minecraft:command_block
-[19:04:25] [Server thread/INFO]: [RompOrTos: Gave 1 [Command Block] to RompOrTos]
-[19:06:55] [Server thread/INFO]: RompOrTos issued server command: /worldborder
-[19:07:03] [Server thread/INFO]: RompOrTos issued server command: /border help
-[19:07:18] [Server thread/INFO]: RompOrTos issued server command: /border list
-[19:07:31] [Server thread/INFO]: RompOrTos issued server command: /worldborder:worldborder
-[19:11:36] [Server thread/INFO]: RompOrTos issued server command: /worldborder center -226 -206
-[19:11:53] [Server thread/INFO]: RompOrTos issued server command: /worldborder center 226 -204
-[19:11:58] [Server thread/INFO]: RompOrTos issued server command: /help
+[19:22:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:22:29] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:22:30] [Worker-Main-2/INFO]: Loaded 7 recipes
+[19:22:31] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:22:31] [Server thread/INFO]: Loading properties
+[19:22:31] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[19:22:31] [Server thread/INFO]: Debug logging is disabled
+[19:22:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:22:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:22:31] [Server thread/INFO]: Default game type: SURVIVAL
+[19:22:31] [Server thread/INFO]: Generating keypair
+[19:22:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:22:31] [Server thread/INFO]: Using epoll channel type
+[19:22:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.5+57d5ac9
+[19:22:32] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2d2ff57d]
+[19:22:32] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.2
+[19:22:32] [Server thread/INFO]: [UhcCore] Loading UhcCore v1.19
+[19:22:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:22:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.5+57d5ac9
+[19:22:32] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:22:32] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[19:22:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:22:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:22:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:22:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:22:33] [Server thread/INFO]: Preparing level "world"
+[19:22:34] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:22:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:22:34] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:34] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:35] [Server thread/INFO]: Preparing spawn area: 4%
+[19:22:35] [Server thread/INFO]: Time elapsed: 1234 ms
+[19:22:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:22:35] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:36] [Worker-Main-1/INFO]: Preparing spawn area: 100%
+[19:22:36] [Server thread/INFO]: Time elapsed: 629 ms
+[19:22:36] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.2
+[19:22:36] [Server thread/INFO]: [UhcCore] Enabling UhcCore v1.19
+[19:22:36] [Server thread/INFO]: [UhcCore] 1.16 Server detected!
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/scoreboard.yml
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/storage.yml
+[19:22:36] [Server thread/INFO]: Starting GS4 status listener
+[19:22:36] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[19:22:36] [Server thread/INFO]: Thread Query Listener started
+[19:22:36] [Server thread/INFO]: Running delayed init tasks
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/lang.yml
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/config.yml
+[19:22:36] [Server thread/INFO]: [UhcCore] Hooked with WorldEdit plugin.
+[19:22:36] [Server thread/WARN]: [UhcCore] Vault plugin not found, there will be no support of economy rewards.
+[19:22:36] [Server thread/WARN]: [UhcCore] ProtocolLib plugin not found.
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/storage.yml
+[19:22:36] [Server thread/INFO]: [UhcCore] Start loading kits
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/kits.yml
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading kit tools
+[19:22:36] [Server thread/INFO]: [UhcCore] Added kit tools
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading kit ench
+[19:22:36] [Server thread/INFO]: [UhcCore] Added kit ench
+[19:22:36] [Server thread/INFO]: [UhcCore] Loaded 2 kits
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading banned crafts list
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/crafts.yml
+[19:22:36] [Server thread/INFO]: [UhcCore] Removed recipe for minecraft:golden_apple
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading custom crafts
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/crafts.yml
+[19:22:36] [Server thread/INFO]: [UhcCore] Loading custom craft Light Apple
+[19:22:36] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:22:36] [Thread-10/INFO]: 
+[19:22:36] [Thread-10/INFO]: [UhcCore] A new version of the UhcCore plugin is available!
+[19:22:36] [Thread-10/INFO]: Current version: 1.19
+[19:22:36] [Thread-10/INFO]: New version: 1.19.4
+[19:22:36] [Thread-10/INFO]: To update use: /uhccore update
+[19:22:36] [Thread-10/INFO]: WARNING: This will restart your server!
+[19:22:36] [Thread-10/INFO]: 
+[19:22:39] [Server thread/INFO]: [UhcCore] Light Apple custom craft registered
+[19:22:39] [Server thread/INFO]: [UhcCore] Loading custom craft Light Anvil
+[19:22:39] [Server thread/INFO]: [UhcCore] Light Anvil custom craft registered
+[19:22:39] [Server thread/INFO]: [UhcCore] Loading custom craft War Axe
+[19:22:39] [Server thread/WARN]: [UhcCore] Using old deprecated enchantment names, replace: DAMAGE_ALL with sharpness
+[19:22:39] [Server thread/WARN]: [UhcCore] Using old deprecated enchantment names, replace: FIRE_ASPECT with fire_aspect
+[19:22:39] [Server thread/INFO]: [UhcCore] War Axe custom craft registered
+[19:22:39] [Server thread/INFO]: [UhcCore] Loading custom craft for golden heads
+[19:22:39] [Server thread/INFO]: [UhcCore] No world to delete
+[19:22:39] [Server thread/INFO]: [UhcCore] No world to delete
+[19:22:39] [Server thread/INFO]: [UhcCore] No world to delete
+[19:22:39] [Server thread/INFO]: [UhcCore] Creating new world : 11094c00-7494-4604-b26e-25d2ca5d9a61
+[19:22:39] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/storage.yml
+[19:22:42] [Server thread/INFO]: Preparing start region for dimension minecraft:11094c00-7494-4604-b26e-25d2ca5d9a61
+[19:22:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:22:42] [Server thread/INFO]: Time elapsed: 295 ms
+[19:22:42] [Server thread/INFO]: [UhcCore] Creating new world : 1414ba03-23aa-4dba-9eb0-95a5814bb7de
+[19:22:42] [Server thread/INFO]: [UhcCore] Loading plugins/UhcCore/storage.yml
+[19:22:43] [Server thread/WARN]: Unable to find spawn biome
+[19:22:44] [Server thread/INFO]: Preparing start region for dimension minecraft:1414ba03-23aa-4dba-9eb0-95a5814bb7de
+[19:22:44] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[19:22:44] [Server thread/INFO]: Time elapsed: 377 ms
+[19:22:44] [Server thread/INFO]: [UhcCore] Generating environment NORMAL
+[19:22:44] [Server thread/INFO]: [UhcCore] Loading a total 4225.0 chunks, up to chunk ( 32 , 32 )
+[19:22:44] [Server thread/INFO]: [UhcCore] Resting 20 ticks every 200 chunks
+[19:22:44] [Server thread/INFO]: [UhcCore] Loading map NORMAL 0.0%
+[19:22:44] [Server thread/INFO]: Done (13.474s)! For help, type "help"
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[19:22:44] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[19:22:44] [Server thread/INFO]: Timings Reset
+[19:23:16] [Craft Scheduler Thread - 3/INFO]: [UhcCore] Loading map NORMAL 4.7% - 200/4225 chunks loaded
+[19:23:24] [Craft Scheduler Thread - 4/INFO]: [UhcCore] Loading map NORMAL 9.4% - 400/4225 chunks loaded
+[19:23:27] [User Authenticator #1/INFO]: UUID of player RompOrTos is c5551972-6eb1-3fa6-b9af-c905864589e9
+[19:23:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@336e921[id=c5551972-6eb1-3fa6-b9af-c905864589e9,name=RompOrTos,properties={},legacy=false] (/127.49.104.71:56419): Loading. Please retry in a few minutes.
+[19:23:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@336e921[id=c5551972-6eb1-3fa6-b9af-c905864589e9,name=RompOrTos,properties={},legacy=false] (/127.49.104.71:56419) lost connection: Loading. Please retry in a few minutes.
+[19:23:32] [Craft Scheduler Thread - 5/INFO]: [UhcCore] Loading map NORMAL 14.2% - 600/4225 chunks loaded
+[19:23:38] [Craft Scheduler Thread - 6/INFO]: [UhcCore] Loading map NORMAL 18.9% - 800/4225 chunks loaded
+[19:23:45] [Craft Scheduler Thread - 6/INFO]: [UhcCore] Loading map NORMAL 23.6% - 1000/4225 chunks loaded
+[19:23:51] [Craft Scheduler Thread - 6/INFO]: [UhcCore] Loading map NORMAL 28.4% - 1200/4225 chunks loaded
+[19:23:58] [Craft Scheduler Thread - 7/INFO]: [UhcCore] Loading map NORMAL 33.1% - 1400/4225 chunks loaded
+[19:24:03] [Craft Scheduler Thread - 8/INFO]: [UhcCore] Loading map NORMAL 37.8% - 1600/4225 chunks loaded
+[19:24:09] [Craft Scheduler Thread - 9/INFO]: [UhcCore] Loading map NORMAL 42.6% - 1800/4225 chunks loaded
+[19:24:13] [Craft Scheduler Thread - 9/INFO]: [UhcCore] Loading map NORMAL 47.3% - 2000/4225 chunks loaded
+[19:24:17] [Craft Scheduler Thread - 9/INFO]: [UhcCore] Loading map NORMAL 52.0% - 2200/4225 chunks loaded
+[19:24:20] [Craft Scheduler Thread - 9/INFO]: [UhcCore] Loading map NORMAL 56.8% - 2400/4225 chunks loaded
+[19:24:24] [Craft Scheduler Thread - 9/INFO]: [UhcCore] Loading map NORMAL 61.5% - 2600/4225 chunks loaded
+[19:24:28] [Craft Scheduler Thread - 10/INFO]: [UhcCore] Loading map NORMAL 66.2% - 2800/4225 chunks loaded
+[19:24:31] [Craft Scheduler Thread - 11/INFO]: [UhcCore] Loading map NORMAL 71.0% - 3000/4225 chunks loaded
+[19:24:35] [Craft Scheduler Thread - 11/INFO]: [UhcCore] Loading map NORMAL 75.7% - 3200/4225 chunks loaded
+[19:24:40] [Craft Scheduler Thread - 12/INFO]: [UhcCore] Loading map NORMAL 80.4% - 3400/4225 chunks loaded
+[19:24:45] [Craft Scheduler Thread - 12/INFO]: [UhcCore] Loading map NORMAL 85.2% - 3600/4225 chunks loaded
+[19:24:51] [Craft Scheduler Thread - 12/INFO]: [UhcCore] Loading map NORMAL 89.9% - 3800/4225 chunks loaded
+[19:24:57] [Craft Scheduler Thread - 12/INFO]: [UhcCore] Loading map NORMAL 94.6% - 4000/4225 chunks loaded
+[19:25:03] [Craft Scheduler Thread - 13/INFO]: [UhcCore] Loading map NORMAL 99.4% - 4200/4225 chunks loaded
+[19:25:05] [Server thread/INFO]: [UhcCore] Environment NORMAL 100% loaded
+[19:25:05] [Server thread/INFO]: [UhcCore] Generating environment NETHER
+[19:25:05] [Server thread/INFO]: [UhcCore] Loading a total 1225.0 chunks, up to chunk ( 17 , 17 )
+[19:25:05] [Server thread/INFO]: [UhcCore] Resting 20 ticks every 200 chunks
+[19:25:05] [Server thread/INFO]: [UhcCore] Loading map NETHER 0.0%
+[19:25:09] [Craft Scheduler Thread - 14/INFO]: [UhcCore] Loading map NETHER 16.3% - 200/1225 chunks loaded
+[19:25:11] [Craft Scheduler Thread - 15/INFO]: [UhcCore] Loading map NETHER 32.6% - 400/1225 chunks loaded
+[19:25:13] [Craft Scheduler Thread - 15/INFO]: [UhcCore] Loading map NETHER 48.9% - 600/1225 chunks loaded
+[19:25:15] [Craft Scheduler Thread - 15/INFO]: [UhcCore] Loading map NETHER 65.3% - 800/1225 chunks loaded
+[19:25:17] [Craft Scheduler Thread - 15/INFO]: [UhcCore] Loading map NETHER 81.6% - 1000/1225 chunks loaded
+[19:25:20] [Craft Scheduler Thread - 15/INFO]: [UhcCore] Loading map NETHER 97.9% - 1200/1225 chunks loaded
+[19:25:21] [Server thread/INFO]: [UhcCore] Environment NETHER 100% loaded
+[19:25:21] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[19:25:24] [Server thread/INFO]: [UhcCore] No WorldEdit/schematic installed so ending with deathmatch at 0 0
+[19:25:24] [Server thread/INFO]: [UhcCore] Players are now allowed to join
